@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I’m @Abdel Mouhaimen Dakhlia</h1> 
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=FFFFFF&random=false&width=700&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40Abdel+Mouhaimen+Dakhlia" alt="Typing SVG" /></h1> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdelMouhaimenDakhlia&label=Profile%20views&color=0e75b6&style=flat" alt="AbdelMouhaimenDakhlia" /> </p> <br>
 👀 Data Analyst | SQL | Python | R | Power BI
 
