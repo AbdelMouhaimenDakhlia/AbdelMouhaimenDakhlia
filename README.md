@@ -1,6 +1,12 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=0000FF&random=false&width=700&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40Abdel+Mouhaimen+Dakhlia" alt="Typing SVG" /></h1> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdelMouhaimenDakhlia&label=Profile%20views&color=0e75b6&style=flat" alt="AbdelMouhaimenDakhlia" /> </p> <br>
+
+
+<!--  About me -->
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+I'm Abdel Mouhaimen Dakhlia a Business Intelligence student at (ESPRIT) in Tunisia 💻.
+<img height ="20" src= "assets/friends.gif" />
+
 👀 Data Analyst | SQL | Python | R | Power BI
 
 🌱 I'm a data analyst with a passion for transforming raw data into actionable insights.
@@ -22,6 +28,22 @@ Big Data Technologies (Hadoop, Spark)
 I'm always open to collaborating on exciting projects and sharing knowledge with the community.
 Feel free to reach out if you have any interesting projects or opportunities.
 
+<!-- Let's Connect..! -->
+# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@AzizBenIsmail-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenIsmalAziz1?s=07)](https://twitter.com/BenIsmalAziz1?s=07)  -->
+[![Linkedin Badge](https://img.shields.io/badge/-AbdelMouhaimenDakhlia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhadakhlia/) 
+[![Mail Badge](https://img.shields.io/badge/-@AbdelMouhaimenDakhlia-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mouha9/)
+[![Mail Badge](https://img.shields.io/badge/-AbdelMouhaimenDakhlia-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Abdelmouhaimen.dakhlia@esprit.tn)
+
+![GitHub followers](https://img.shields.io/github/followers/AbdelMouhaimenDakhlia?style=social)
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=AbdelMouhaimenDakhlia)
+<!-- Ligne  -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<!-- Skills  -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -93,11 +115,20 @@ Feel free to reach out if you have any interesting projects or opportunities.
   
 </p>
 
-📬 Contact:
-Email: Abdelmouhaimen.dakhlia@esprit.tn
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelMouhaimenDakhlia&show_icons=true&locale=en&layout=compact" alt="AbdelMouhaimenDakhlia" /></p>
+<!-- Github Stats   -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelMouhaimenDakhlia&show_icons=true&locale=en" alt="AbdelMouhaimenDakhlia" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelMouhaimenDakhlia&theme=algolia&layout=compact)
+[![](https://github-readme-stats.vercel.app/api?username=AbdelMouhaimenDakhlia&show_icons=true&theme=algolia)](https://github.com/AbdelMouhaimenDakhlia)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelMouhaimenDakhlia&" alt="AbdelMouhaimenDakhlia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelMouhaimenDakhlia&&theme=algolia" alt="AbdelMouhaimenDakhlia" /></p>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AbdelMouhaimenDakhlia&theme=react)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+
 
