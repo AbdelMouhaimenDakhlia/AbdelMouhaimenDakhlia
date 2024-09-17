@@ -35,6 +35,8 @@ Feel free to reach out if you have any interesting projects or opportunities.
 [![Linkedin Badge](https://img.shields.io/badge/-AbdelMouhaimenDakhlia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhadakhlia/) 
 [![Mail Badge](https://img.shields.io/badge/-@AbdelMouhaimenDakhlia-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mouha9/)
 [![Mail Badge](https://img.shields.io/badge/-AbdelMouhaimenDakhlia-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Abdelmouhaimen.dakhlia@esprit.tn)
+[![CV Badge](https://img.shields.io/badge/-Mon%20CV-blue?style=flat&logo=github&logoColor=white)](https://abdelmouhaimendakhlia.github.io/CV/)
+
 
 ![GitHub followers](https://img.shields.io/github/followers/AbdelMouhaimenDakhlia?style=social)
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=AbdelMouhaimenDakhlia)
