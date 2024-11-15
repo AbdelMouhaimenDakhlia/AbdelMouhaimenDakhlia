@@ -1,63 +1,61 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=0000FF&random=false&width=700&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40Abdel+Mouhaimen+Dakhlia" alt="Typing SVG" /></h1> 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=0000FF&width=700&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40Abdel+Mouhaimen+Dakhlia" alt="Typing SVG" />
+</h1>
 
+<!-- About Me Section -->
+## 👨‍💻 About Me
+I'm **Abdel Mouhaimen Dakhlia**, a passionate **Business Intelligence** student at ESPRIT (Tunisia). With over a year of experience, I am driven by the power of data to make impactful decisions. My goal is to bridge the gap between raw data and actionable insights using powerful BI tools and machine learning techniques.
 
+- 💼 **Data Analyst | BI Developer | Python Enthusiast**
+- 🛠️ **Skills:** Python, SQL, Power BI, PostgreSQL, R, Machine Learning
+- 🌍 **Location:** Tunisia
 
-<!--  About me -->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-I'm Abdel Mouhaimen Dakhlia a Business Intelligence student at (ESPRIT) in Tunisia 💻.
-<img height ="20" src= "assets/friends.gif" />
+---
+## 📢 Let’s Connect!
 
-👀 Data Analyst | SQL | Python | R | Power BI
+Feel free to reach out to me on any of the platforms below. I’m always open to discussing projects, collaborating, or sharing knowledge.
 
-🌱 I'm a data analyst with a passion for transforming raw data into actionable insights.
-With over 1 year of experience, I specialize in data cleaning, analysis, and visualization.
-My goal is to help organizations make data-driven decisions that drive growth and efficiency.
+- [![Linkedin Badge](https://img.shields.io/badge/-AbdelMouhaimenDakhlia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhadakhlia/)
+- [![Mail Badge](https://img.shields.io/badge/-@AbdelMouhaimenDakhlia-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mouha9/)
+- [![Mail Badge](https://img.shields.io/badge/-AbdelMouhaimenDakhlia-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Abdelmouhaimen.dakhlia@esprit.tn)
+- [![CV Badge](https://img.shields.io/badge/-Mon%20CV-blue?style=flat&logo=github&logoColor=white)](https://abdelmouhaimendakhlia.github.io/CV/)
 
-🔧 Technical Skills:
--Languages: SQL, Python, R
--Data Visualization:  Power BI, Matplotlib, Seaborn
--Database Management: MySQL, PostgreSQL, MongoDB
--Tools: Excel, Google Analytics, Jupyter Notebook
--Machine Learning: Scikit-learn, TensorFlow
+---
+## 🚀 Expertise & Technical Skills
+I specialize in turning data into strategic business decisions. Here are some of the tools I excel in:
 
-📚 Currently Learning:
-Advanced Machine Learning Algorithms
-Big Data Technologies (Hadoop, Spark)
+- **Programming & Languages:** SQL, Python, R, JavaScript
+- **Data Visualization & Reporting:** Power BI, Matplotlib, Seaborn
+- **Database Management:** MySQL, PostgreSQL, MongoDB
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras
+- **BI & Data Integration:** Talend, Google Analytics, Excel
 
-💞️💡 Let's Collaborate:
-I'm always open to collaborating on exciting projects and sharing knowledge with the community.
-Feel free to reach out if you have any interesting projects or opportunities.
+📚 **Currently Learning:**  
+- **Big Data Technologies:** Hadoop, Spark  
+- **Advanced Machine Learning:** Deep Learning Algorithms, Reinforcement Learning
 
-<!-- Let's Connect..! -->
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+---
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@AzizBenIsmail-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenIsmalAziz1?s=07)](https://twitter.com/BenIsmalAziz1?s=07)  -->
-[![Linkedin Badge](https://img.shields.io/badge/-AbdelMouhaimenDakhlia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhadakhlia/) 
-[![Mail Badge](https://img.shields.io/badge/-@AbdelMouhaimenDakhlia-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mouha9/)
-[![Mail Badge](https://img.shields.io/badge/-AbdelMouhaimenDakhlia-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Abdelmouhaimen.dakhlia@esprit.tn)
-[![CV Badge](https://img.shields.io/badge/-Mon%20CV-blue?style=flat&logo=github&logoColor=white)](https://abdelmouhaimendakhlia.github.io/CV/)
+## 🏆 Projects
+Here are some of the exciting projects I’ve been working on:
 
+1. **BI Dashboard for Indautech:**
+   Developed an interactive Power BI dashboard for motor sales and complaints analysis, integrating data from Talend and PostgreSQL. The dashboard helps track sales performance and customer satisfaction.
+   
+2. **Social Media Ad Analytics:**
+   Built a BI solution to analyze ad campaign performance using Power BI, Python, and SQL. Integrated real-time data and visualized KPIs, leading to optimized ad strategies for clients.
 
-![GitHub followers](https://img.shields.io/github/followers/AbdelMouhaimenDakhlia?style=social)
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=AbdelMouhaimenDakhlia)
-<!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+3. **AI-Powered Anomaly Detection:**
+   Leveraged machine learning algorithms to detect anomalies in large datasets. Developed using Python, Scikit-learn, and TensorFlow, the project focused on time-series anomaly detection for business operations.
 
-<!-- Skills  -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+---
+## 🔧 Skills & Tools
+
+<p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -114,22 +112,37 @@ Feel free to reach out if you have any interesting projects or opportunities.
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/> 
   </a>
+</p>
+
+---
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelMouhaimenDakhlia&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelMouhaimenDakhlia&layout=compact&theme=radical" alt="Top Languages" />
   
 </p>
 
-<!-- Github Stats   -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelMouhaimenDakhlia&theme=algolia&layout=compact)
-[![](https://github-readme-stats.vercel.app/api?username=AbdelMouhaimenDakhlia&show_icons=true&theme=algolia)](https://github.com/AbdelMouhaimenDakhlia)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelMouhaimenDakhlia&&theme=algolia" alt="AbdelMouhaimenDakhlia" /></p>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=AbdelMouhaimenDakhlia&theme=react)
+---
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## 🌟 Badges & Recognition
+
+![GitHub Followers](https://img.shields.io/github/followers/AbdelMouhaimenDakhlia?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=AbdelMouhaimenDakhlia)
+
+---
+
+
+
+## 🌱 Ongoing Learning
+
+I am constantly exploring new tools, technologies, and methodologies to stay ahead in the field of Business Intelligence and Data Science. Currently, I am focusing on:
+- **Big Data Technologies:** Hadoop, Apache Spark
+- **Advanced Data Science:** Time-series forecasting, Deep Learning
+
+---
 
 
 
