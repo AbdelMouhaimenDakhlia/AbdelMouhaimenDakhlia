@@ -1,9 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=0000FF&width=700&lines=%F0%9F%91%8B+Hi%2C+I’m+Abdel+Mouhaimen+Dakhlia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=00FF00&width=700&lines=👋+Hi,+I’m+Abdel+Mouhaimen+Dakhlia" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+</p>
+
+---
+
 ## 👨‍💻 About Me
-I'm **Abdel Mouhaimen Dakhlia**, a third-year engineering student specializing in **ERP - Business Intelligence** at ESPRIT (Tunisia). I have a strong background in data analysis, business intelligence, and ERP systems. Currently seeking a final-year internship in data analysis, business intelligence, or DevOps.
+I'm **Abdel Mouhaimen Dakhlia**, a third-year engineering student specializing in **ERP - Business Intelligence** at ESPRIT (Tunisia). With strong skills in data analysis, business intelligence, and DevOps practices. 
 
 - 💼 **Data Analyst | BI Developer | ERP Specialist | DevOps Enthusiast**
 - 🛠️ **Skills:** Python, SQL, Power BI, PostgreSQL, R, Machine Learning, .NET, Angular, DevOps
@@ -11,68 +17,75 @@ I'm **Abdel Mouhaimen Dakhlia**, a third-year engineering student specializing i
 
 ---
 
-## 📢 Let’s Connect!
-Feel free to reach out to me on any of the platforms below. I’m always open to discussing projects, collaborating, or sharing knowledge.
-
-- [![Linkedin Badge](https://img.shields.io/badge/-AbdelMouhaimenDakhlia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhadakhlia/)
-- [![Mail Badge](https://img.shields.io/badge/-@AbdelMouhaimenDakhlia-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mouha9/)
-- [![Mail Badge](https://img.shields.io/badge/-AbdelMouhaimenDakhlia-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Abdelmouhaimen.dakhlia@esprit.tn)
-- [![CV Badge](https://img.shields.io/badge/-Mon%20CV-blue?style=flat&logo=github&logoColor=white)](https://abdelmouhaimendakhlia.github.io/CV/)
+## 📬 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/mouhadakhlia/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/mouha9/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:Abdelmouhaimen.dakhlia@esprit.tn">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://abdelmouhaimendakhlia.github.io/CV/" target="_blank">
+    <img src="https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 Expertise & Technical Skills
-- **Programming & Languages:** Python, Java, R, SQL, JavaScript
-- **Data Visualization & Reporting:** Power BI, Matplotlib, Seaborn, R-Studio
+- **Languages:** Python, Java, R, SQL, JavaScript
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
 - **Database Management:** MySQL, PostgreSQL, Oracle, SQL Server
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras
 - **BI & Data Integration:** Talend, SAP, Microsoft Dynamics
 - **Web Development:** Angular, Symfony, Spring Boot, .NET
-- **Machine Learning:** Scikit-learn, TensorFlow
-- **DevOps:** Docker, Jenkins, GitHub Actions, CI/CD Pipelines
+- **DevOps:** Docker, Jenkins, GitHub Actions, Kubernetes
 - **Tools:** GitHub, VS Code, Postman
 
 📚 **Currently Learning:**
-- **Big Data Technologies:** Hadoop, Apache Spark
-- **Advanced Machine Learning:** Deep Learning, Reinforcement Learning
+- **Big Data Technologies:** Apache Hadoop, Spark
+- **Advanced AI Techniques:** Deep Learning, Transformers
 
 ---
 
-## 🏆 Professional Experience
+## 🏆 Experience
 1. **Engineering Internship at Indautech (July 2024 - September 2024):**
-   - Analyzed and modeled sales and complaints data for motors.
-   - Created key performance indicators and interactive Power BI dashboards.
-   - Technologies: Talend, PostgreSQL, Power BI
+   - Analyzed and modeled motor sales and complaints data.
+   - Developed Power BI dashboards with key performance indicators.
+   - Tools: Talend, PostgreSQL, Power BI
 
 2. **Summer Internship at MEPROSS (June 2023 - July 2023):**
-   - Developed a custom plugin for Revit using .NET C#.
+   - Built a custom plugin for Revit using .NET C#.
    - Technologies: .NET C#, Revit
 
 3. **Final Year Project at SAGEMCOM (February 2021 - June 2021):**
-   - Designed a control system for energy meters using Python and LabView.
-   - Technologies: Python, LabView, Embedded Systems
+   - Designed an energy meter control system using Python and LabView.
 
 ---
 
 ## 🎓 Academic Projects
-1. **PI FootiFizz (January 2024 - June 2024):**
-   - Developed a sports performance dashboard using ETL, Selenium, and Power BI.
-   - Technologies: Talend, PostgreSQL, Python, Angular, Power BI
+1. **PI FootiFizz Dashboard (Jan 2024 - Jun 2024):**
+   - Created a sports performance dashboard using ETL processes and Power BI.
+   - Tools: Talend, PostgreSQL, Angular, Python
 
-2. **PI Hopitallo (January 2023 - June 2023):**
-   - Built a cross-platform healthcare application (Web/Desktop/Mobile).
-   - Technologies: Symfony, JavaFX, Codename One
+2. **PI Hopitallo App (Jan 2023 - Jun 2023):**
+   - Developed a cross-platform healthcare application.
+   - Tools: Symfony, JavaFX, Codename One
 
-3. **DevOps Project (November 2024):**
-   - Implemented a CI/CD pipeline with GitHub Actions and Docker for a microservices-based application.
-   - Technologies: Docker, Jenkins, GitHub Actions, Kubernetes
+3. **DevOps CI/CD Pipeline (Nov 2024):**
+   - Implemented CI/CD pipelines using GitHub Actions and Docker for microservices.
+   - Tools: Docker, Jenkins, Kubernetes
 
 ---
 
 ## 🏅 Certifications
 - **Microsoft Azure Fundamentals (AZ-900)**
 - **Implementing an SAP Solution (Coursera)**
-- **Applications of AI for Anomaly Detection (NVIDIA)**
-- **Building Transformer-Based Natural Language Processing Applications (NVIDIA)**
+- **AI for Anomaly Detection (NVIDIA)**
+- **Transformer-Based NLP Applications (NVIDIA)**
 - **Machine Learning Operations (Coursera)**
 
 ---
@@ -101,5 +114,10 @@ Feel free to reach out to me on any of the platforms below. I’m always open to
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdelMouhaimenDakhlia&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AbdelMouhaimenDakhlia?style=social" alt="GitHub Followers" />
 </p>
